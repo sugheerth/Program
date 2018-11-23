@@ -1,0 +1,4 @@
+hello=there
+how=are
+you=today
+and=tomorrow,late,better,goof
