@@ -178,6 +178,8 @@ class MyString
  	{
          	string = input;
         }
+	
+	int string;
 };
 
 
