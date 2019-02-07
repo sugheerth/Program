@@ -4,10 +4,7 @@ class MyString
 {
 	String string;
  
-	public MyString(String input)
- 	{
-         	string = input;
-        }
+	
         
         public String concat(String str)
         {
@@ -176,6 +173,11 @@ class MyString
 
            }while(ch=='y' || ch=='Y');
 	}
+	
+	public MyString(String input)
+ 	{
+         	string = input;
+        }
 };
 
 
